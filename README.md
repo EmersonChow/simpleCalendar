@@ -6,3 +6,7 @@ Simple calendar in java. UML design by classmate, implemented by me. Original de
 <br/> 
 
 Future edits to come
+
+<br/>
+
+readme.txt describes how to use the program & some other details.
